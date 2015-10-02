@@ -193,31 +193,6 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1, Eurosport 1 (stream 2)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:-1, [COLOR green]Sky Sport 1[/COLOR]
-http://5.196.14.179/sipragezabava.com/sky1.m3u8
-#EXTINF:-1, [COLOR orange]Sky Sport 1[/COLOR]
-http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-
-#EXTINF:-1, [COLOR green]Sky Sport 2[/COLOR]
-http://5.196.14.179/sipragezabava.com/sky2.m3u8
-#EXTINF:-1, [COLOR orange]Sky Sport 2[/COLOR]
-http://01s2.vp9.tv/chn/sks2/v.m3u8
-
-#EXTINF:-1, Sky Sport 3
-http://5.196.14.179/sipragezabava.com/sky3.m3u8
-#EXTINF:-1, Sky Sports 3
-http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
-
-#EXTINF:-1, [COLOR green]Sky Sport 4[/COLOR]
-http://5.196.14.179/sipragezabava.com/sky4.m3u8
-#EXTINF:-1, [COLOR orange]Sky Sport 4[/COLOR]
-http://01s2.vp9.tv/chn/sks4/v.m3u8
-
-#EXTINF:-1, [COLOR green]Sky Sport 5[/COLOR]
-http://5.196.14.179/sipragezabava.com/sky5.m3u8
-#EXTINF:-1, [COLOR orange]Sky Sport 5[/COLOR]
-http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
-
 
 #EXTINF:-1, BT Sport 1 HD
 http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
@@ -265,8 +240,6 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1, Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:-1, [COLOR red]LFC --- YNWA[/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
 #EXTINF:-1, [COLOR red]LFC --- YNWA[/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 #EXTINF:-1, [COLOR blue]CHELSEA TV[/COLOR]
