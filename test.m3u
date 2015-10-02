@@ -1,8 +1,240 @@
-#EXTINF:-1,[COLOR blue][I][B]-------------- LATINO MIX 2-------------[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --IPTVXBMC 6-26-2015Please Click on our site Sponsors in order to maintain links. it is free! Support the Cause..--[/COLOR]  
-#EXTINF:-1, [COLOR green] --IPTVXBMC.COM EXPERIENCE-[/COLOR]
-http://iptvxbmc.com.com
-#EXTINF:-1, Donado por usuarios
+
+#EXTINF
+#EXTINF:-1,[COLOR blue][I][B]--- 01-10-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 01-10-2015--[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]-- Temporary Channels --[/COLOR]
+http://0.0.0.0:1234
+
+[COLOR red]temporary offline[/COLOR]
+
+[COLOR green]online[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]--- UK CHANNELS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,BBC One London [COLOR green]online[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.1:1234
+ 
+#EXTINF:-1,BBC One Scotland [COLOR green]online[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.2:1234
+ 
+#EXTINF:-1,BBC Two England [COLOR green]online[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.3:1234
+ 
+#EXTINF:-1,BBC Three [COLOR green]online[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.4:1234
+ 
+#EXTINF:-1,BBC Four [COLOR green]online[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1, 4 Seven
+http://bit.do/bmHTu
+
+#EXTINF:-1, 5 USA
+http://bit.do/bmHTK
+
+#EXTINF:-1, Pick
+http://bit.do/bmHUS
+
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
+http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
+http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
+http://wownet.ro/str/0403.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
+http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
+http://wownet.ro/str/0405.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
+http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
+http://wownet.ro/str/0407.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
+http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
+http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
+http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
+http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
+http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
+http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
+http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
+http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
+http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
+http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
+http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
+http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
+
+
+#EXTINF:-1,[COLOR yellow]--- KIDS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [COLOR red]offline[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]--- MUSIC ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+#EXTINF:-1,[COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, SKY Atlantic
+http://alturl.com/fvzwg
+
+#EXTINF:-1, SKY Crime & Thriller
+http://alturl.com/3bxu5
+
+#EXTINF:-1, SKY Family
+http://alturl.com/pii4p
+
+#EXTINF:-1, SKY Modern Greats
+http://alturl.com/ifuyg
+
+#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,HBO Plus EN
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+
+
+#EXTINF:-1,[COLOR yellow]--- SPORT ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, SKY Sports 1
+http://alturl.com/e93kk
+
+#EXTINF:-1, SKY Sports 2
+http://alturl.com/sgnir
+
+#EXTINF:-1, SKY Sports 3
+http://alturl.com/potqg
+
+#EXTINF:-1, SKY Sports 4
+http://alturl.com/bpmt5
+
+#EXTINF:-1, SKY Sports 5
+http://alturl.com/zistr
+
+#EXTINF:-1, SKY Sports F1
+http://alturl.com/vpmah
+
+#EXTINF:-1, BT Sport 1
+http://alturl.com/pizzo
+
+#EXTINF:-1, BT Sport 2
+http://alturl.com/i9gja
+
+#EXTINF:-1, Setanta Sports
+http://alturl.com/nrpx3
+
+#EXTINF:0, BEIN UK 1 
+http://lihattv.toh.info/jhos/beib1.m3u8
+
+#EXTINF:0, BEIN UK 2 
+http://lihattv.toh.info/jhos/beib2.m3u8
+
+#EXTINF:0, BEIN UK 3 
+http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:-1, Eurosport 1 (stream 2)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,[COLOR yellow]--- DOCUMENTARY ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [COLOR red]offline[/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]--- NEWS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
+http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://wownet.ro/str/0422.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
+http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
+http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
+http://wownet.ro/str/0428.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today [EN][/COLOR]
+http://wownet.ro/str/0429.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
+http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
+http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, Sky News International (stream 2)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,BBC News (stream 2)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, CNN (stream 2)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,CNBC (stream 2)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
 
 #EXTINF:-1, [COLOR yellow][I]------LATINO ------[/COLOR] [/I] 
 Donada por usuarios
@@ -4124,238 +4356,3 @@ http://www2.uptobox.com/d/umy2ijx4e7zskgsqlqkmkajao5qnd6wafz2l6axzyi2cypu247rhui
 #EXTINF:0, PINOCHO
 http://www27.uptobox.com/d/xqy64ix4e7zskgsqlqkimar2nqrndhenj7uupiww46klopzdc5257fum/Pinocho.mp4
 
-#EXTINF:-1,[COLOR blue][I][B]--- 01-10-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 01-10-2015--[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]-- Temporary Channels --[/COLOR]
-http://0.0.0.0:1234
-
-[COLOR red]temporary offline[/COLOR]
-
-[COLOR green]online[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]--- UK CHANNELS ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,BBC One London [COLOR green]online[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.1:1234
- 
-#EXTINF:-1,BBC One Scotland [COLOR green]online[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.2:1234
- 
-#EXTINF:-1,BBC Two England [COLOR green]online[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.3:1234
- 
-#EXTINF:-1,BBC Three [COLOR green]online[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.4:1234
- 
-#EXTINF:-1,BBC Four [COLOR green]online[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.5:1234
-
-#EXTINF:-1, 4 Seven
-http://bit.do/bmHTu
-
-#EXTINF:-1, 5 USA
-http://bit.do/bmHTK
-
-#EXTINF:-1, Pick
-http://bit.do/bmHUS
-
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
-http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
-http://wownet.ro/str/0403.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
-http://wownet.ro/str/0405.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
-http://wownet.ro/str/0407.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
-http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
-http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
-http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
-http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
-http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
-http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
-http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
-http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
-http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
-http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
-
-
-#EXTINF:-1,[COLOR yellow]--- KIDS ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [COLOR red]offline[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]--- MUSIC ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-
-#EXTINF:-1, Music
-http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
-
-#EXTINF:-1,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1,CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1,Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1,MTV Music HD
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
-
-#EXTINF:-1,MTV Hits SD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
-
-#EXTINF:-1,MTV Dance HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
-
-#EXTINF:-1,MTV Rocks HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-
-#EXTINF:-1,Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-#EXTINF:-1,Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-
-#EXTINF:-1,[COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, SKY Atlantic
-http://alturl.com/fvzwg
-
-#EXTINF:-1, SKY Crime & Thriller
-http://alturl.com/3bxu5
-
-#EXTINF:-1, SKY Family
-http://alturl.com/pii4p
-
-#EXTINF:-1, SKY Modern Greats
-http://alturl.com/ifuyg
-
-#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
-http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,HBO Plus EN
-rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
-
-
-#EXTINF:-1,[COLOR yellow]--- SPORT ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, SKY Sports 1
-http://alturl.com/e93kk
-
-#EXTINF:-1, SKY Sports 2
-http://alturl.com/sgnir
-
-#EXTINF:-1, SKY Sports 3
-http://alturl.com/potqg
-
-#EXTINF:-1, SKY Sports 4
-http://alturl.com/bpmt5
-
-#EXTINF:-1, SKY Sports 5
-http://alturl.com/zistr
-
-#EXTINF:-1, SKY Sports F1
-http://alturl.com/vpmah
-
-#EXTINF:-1, BT Sport 1
-http://alturl.com/pizzo
-
-#EXTINF:-1, BT Sport 2
-http://alturl.com/i9gja
-
-#EXTINF:-1, Setanta Sports
-http://alturl.com/nrpx3
-
-#EXTINF:0, BEIN UK 1 
-http://lihattv.toh.info/jhos/beib1.m3u8
-
-#EXTINF:0, BEIN UK 2 
-http://lihattv.toh.info/jhos/beib2.m3u8
-
-#EXTINF:0, BEIN UK 3 
-http://lihattv.toh.info/jhos/beib3.m3u8
-
-#EXTINF:-1, Eurosport 1 (stream 2)
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:-1,[COLOR yellow]--- DOCUMENTARY ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [COLOR red]offline[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- NEWS ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
-http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
-http://wownet.ro/str/0422.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
-http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
-http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
-http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
-http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
-http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
-http://wownet.ro/str/0428.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today [EN][/COLOR]
-http://wownet.ro/str/0429.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
-http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
-http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, Sky News International (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
-
-#EXTINF:-1,BBC News (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, CNN (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-
-#EXTINF:-1,CNBC (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
