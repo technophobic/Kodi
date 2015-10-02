@@ -193,6 +193,88 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1, Eurosport 1 (stream 2)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
+#EXTINF:-1, [COLOR green]Sky Sport 1[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky1.m3u8
+#EXTINF:-1, [COLOR orange]Sky Sport 1[/COLOR]
+http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
+
+#EXTINF:-1, [COLOR green]Sky Sport 2[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky2.m3u8
+#EXTINF:-1, [COLOR orange]Sky Sport 2[/COLOR]
+http://01s2.vp9.tv/chn/sks2/v.m3u8
+
+#EXTINF:-1, Sky Sport 3
+http://5.196.14.179/sipragezabava.com/sky3.m3u8
+#EXTINF:-1, Sky Sports 3
+http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
+
+#EXTINF:-1, [COLOR green]Sky Sport 4[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky4.m3u8
+#EXTINF:-1, [COLOR orange]Sky Sport 4[/COLOR]
+http://01s2.vp9.tv/chn/sks4/v.m3u8
+
+#EXTINF:-1, [COLOR green]Sky Sport 5[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky5.m3u8
+#EXTINF:-1, [COLOR orange]Sky Sport 5[/COLOR]
+http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
+
+
+#EXTINF:-1, BT Sport 1 HD
+http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
+#EXTINF:-1, BT Sport 1
+http://5.196.14.179/sipragezabava.com/bt1.m3u8
+
+#EXTINF:-1, BT Sport 2 HD
+http://edge.ultracast.me:1935/live/bt2sdaquID/playlist.m3u8?Token
+#EXTINF:-1, BT Sport 2
+http://5.196.14.179/sipragezabava.com/bt2.m3u8
+
+#EXTINF:-1, BT Sports / ESPN HD
+http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
+
+
+#EXTINF:-1, Eurosport HD 
+http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, Sport 1 HD 
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+#EXTINF:-1, Sport 1 HD 
+http://46.61.226.18/hls/CH_C04_SPORT1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, Our Football HD 
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, 1 Football HD 
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, Football 2 HD 
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, Football 3 HD 
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:0, BEIN UK 1 
+http://lihattv.toh.info/jhos/beib1.m3u8
+
+#EXTINF:0, BEIN UK 2 
+http://lihattv.toh.info/jhos/beib2.m3u8
+
+#EXTINF:0, BEIN UK 3 
+http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:-1, Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1, [COLOR red]LFC --- YNWA[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
+#EXTINF:-1, [COLOR red]LFC --- YNWA[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
+#EXTINF:-1, [COLOR blue]CHELSEA TV[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+#EXTINF:-1, [COLOR skyblue]Man City[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+
+
 #EXTINF:-1,[COLOR yellow]--- DOCUMENTARY ---[/COLOR]
 http://0.0.0.0:1234
 
