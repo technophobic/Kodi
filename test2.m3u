@@ -10,6 +10,9 @@ http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]-- 06/10/2015 --[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,FOX SPORT 502 HD
+http://motorsport.hopto.org:8080/
+
 #EXTINF:0, Eurosport 1 uk
 http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
 #EXTINF:0, Eurosport 2 uk
@@ -585,35 +588,5 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1,BBC News (stream 2)
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 
-#EXTINF:-1, CNN (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-
-#EXTINF:-1,CNBC (stream 2)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, [COLOR yellow][I]------LATINO ------[/COLOR] [/I] 
-Donada por usuarios
-Gracias .
-
-#EXTINF:-1,FOX
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,FX
-http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,SONY
-http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,FOX SPORTS
-http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,ESPN
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,ESPN2
-http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1,ESPN3
-http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
  
  
