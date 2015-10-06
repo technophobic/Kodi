@@ -47,6 +47,103 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 
 #EXTINF:-1,[COLOR yellow]-- Test Channels --[/COLOR]
 
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV*** INGILIZCE - ENGLISH***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,ARAP Peace TV (english)
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_usa-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?autostart=true&"/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.way2allah.com/media/TV/peacetv.php
+#EXTINF:-1,BBC News - The Daily Politics mms
+mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv
+#EXTINF:-1,Beauty TV
+rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
+#EXTINF:-1,Bloomberg UK TV
+http://www.bloomberg.com/streams/video/LiveUK_nb.asx
+#EXTINF:-1,bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1,bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1,bollywoodcinema2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1,bollywoodhungama
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1,CAPITAL TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+#EXTINF:-1,DAIL EIREANN
+rtsp://wms.servers.heanet.ie/Dail
+#EXTINF:-1,Denver 8 TV mms
+mms://207.7.154.96/G0080_002?wmcache=0
+#EXTINF:-1,english
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,ENT.BAY TV CONCERT
+rtmp://planetaonline.cdnvideo.ru/rr/channel_2
+#EXTINF:-1,Florida-CarolCablesTV mms
+mms://207.7.154.95/G0937_002?wmcache=0
+#EXTINF:-1,Fresh TV
+rtmp://80.93.53.88:1935/live/channel_4
+#EXTINF:-1,gotica tv
+rtmp://149.11.34.6:1935/live/gotica.stream
+#EXTINF:-1,HEART
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+#EXTINF:-1,HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+#EXTINF:-1,JCTV
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+#EXTINF:-1,JCTV Music, Mobile, Music Blender, Others US
+http://www.jctv.org/watchlive/jc-tv200.asx
+#EXTINF:-1,Knob Ch1 mms
+mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
+#EXTINF:-1,Knob Ch2 mms
+mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
+#EXTINF:-1,Knob Ch3 music mms
+mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
+#EXTINF:-1,Knob Comedie OK Nice CH5 mms
+mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
+#EXTINF:-1,Knob Movies OK Nice CH7 mms
+mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
+#EXTINF:-1,Lobas Tv
+rtmp://149.11.34.6/live/lobas.stream
+#EXTINF:-1,Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+#EXTINF:-1,Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,NDTV
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:-1,NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,offroad tv
+rtmp://grey.ether.tv/live/fulltime/broadcast4
+#EXTINF:-1,Outdoor Channel
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#EXTINF:-1,Peace Tv Asia
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:-1,QVC TV UK
+rtmp://cp79650.live.edgefcs.net/live/QVCLive1@14308
+#EXTINF:-1,Rocks & Co. TV
+rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002
+#EXTINF:-1,RoswellLive US mms
+mms://roswell.ecstreams.com/RoswellLive
+#EXTINF:-1,Salt and Light
+http://eastweb.streamguys.com/saltandlight.asx
+#EXTINF:-1,SEANAD EIREANN
+rtsp://wms.servers.heanet.ie/Seanad
+#EXTINF:-1,Sky News mms
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,TV-EN, Media Childrens Live TBN smile of a child
+http://media.tbn.org/wmedia-live/tbn/10200/300_tbn-the_smile_of_a_child_051222.asx
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,US TWit
+http://bglive-a.bitgravity.com/twit/live/high
+#EXTINF:-1,Virginia-GMUTV mms
+mms://media.mesa.gmu.edu/capconwhite1
+
+
 //www.brdog.net/brdog_stv/sports/outdoor_sport.asx
 #EXTINF:-1,Espn Uk
 rtmp://$OPT:rtmp-raw=rtmp://95.168.199.241:1935/live playpath=espnuk live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=14
