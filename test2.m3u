@@ -528,12 +528,6 @@ http://46.61.226.18/hls/CH_C04_SPORT1HD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1, Our Football HD 
 http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, 1 Football HD 
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
-
-#EXTINF:-1, Football 2 HD 
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
-
 
 
 #EXTINF:-1, Eurosport 1
@@ -542,8 +536,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 
 #EXTINF:-1,[COLOR yellow]--- DOCUMENTARY ---[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1, [COLOR red]offline[/COLOR]
 
 
 #EXTINF:-1,[COLOR yellow]--- NEWS ---[/COLOR]
