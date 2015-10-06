@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR yellow]--- 06/10/2015 UPDATE SPORT ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]-- 06/10/2015 --[/COLOR]
 
 #EXTINF:0, Eurosport 1 uk
 http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
