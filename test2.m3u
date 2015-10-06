@@ -525,10 +525,6 @@ http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
 #EXTINF:-1, Sport 1 HD 
 http://46.61.226.18/hls/CH_C04_SPORT1HD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, Our Football HD 
-http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
-
-
 
 #EXTINF:-1, Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
