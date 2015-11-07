@@ -1,15 +1,95 @@
 #EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 07-11-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 07-11-2015--[/COLOR]
 
-
-#EXTINF:-1,[COLOR blue][I][B]--- 24-10-2015 ---[/B][/I][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 24-10-2015--[/COLOR]
-#EXTINF:-1,[COLOR yellow]-- Temporary Channels --[/COLOR]
+#EXTINF:-1,[COLOR red]-- Temporary Channels --[/COLOR]
 http://0.0.0.0:1234
 
 [COLOR red]temporary offline[/COLOR]
 
-[COLOR green]online[/COLOR]
+[COLOR green]online 7-11-15[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS - WORKING ONLY WITH A VPN SERVICE[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR white]Most channels works only with a VPN connection.[/COLOR]
+
+#EXTINF:-1,[COLOR white]By IPVanish is possible to access to the channels by the Zurich server (zur-c02). Tested by me![/COLOR]
+
+#EXTINF:-1,[COLOR white]If you wish, you can join the IPVanish through our site (redeneobux.com).[/COLOR]
+
+#EXTINF:-1,[COLOR white]I'm not forcing anyone to sign up to the vpn service.[/COLOR]
+
+#EXTINF:-1,[COLOR white]But, it is the only alternative I've found so far.[/COLOR]
+
+#EXTINF:-1,[COLOR white]The decision is entirely yours.[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]------------------------------------------------------------------[/COLOR]
+
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
+http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
+http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
+http://wownet.ro/str/0403.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
+http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
+http://wownet.ro/str/0405.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
+http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
+http://wownet.ro/str/0407.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
+http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
+http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
+http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
+http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
+http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
+http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
+http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
+http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
+http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
+http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
+http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
+http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
+http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://wownet.ro/str/0422.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
+http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
+http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
+http://wownet.ro/str/0428.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today [EN][/COLOR]
+http://wownet.ro/str/0429.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
+http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
+http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
 
 #EXTINF:-1,[COLOR yellow]--- UK CHANNELS ---[/COLOR]
 http://0.0.0.0:1234
@@ -29,53 +109,42 @@ http://82.135.224.134:80/udp/239.100.3.4:1234
 #EXTINF:-1,BBC Four
 http://82.135.224.134:80/udp/239.100.3.5:1234
 
+#EXTINF:-1, ITV 1 London
+http://82.135.224.134/udp/239.100.3.6:1234
+
+#EXTINF:-1, ITV Choice
+http://103.245.167.28/tot/e36b99bcd26648af9db2261785c77b7a.m3u8
+
 #EXTINF:-1, London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
-http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
-http://wownet.ro/str/0403.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
-http://wownet.ro/str/0405.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
-http://wownet.ro/str/0407.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
-http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
-http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
-http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
-http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
-http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
-http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
-http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
-http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
-http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
-http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1, E4 +1
+http://laganvpn12.plus.com:9981/stream/channelid/89
+
+#EXTINF:-1, Dave
+http://laganvpn12.plus.com:9981/stream/channelid/90
+
+#EXTINF:-1, Challenge
+http://laganvpn12.plus.com:9981/stream/channelid/91
+
+#EXTINF:-1, Pick
+http://laganvpn12.plus.com:9981/stream/channelid/92
+
+#EXTINF:-1, TruTV
+http://laganvpn12.plus.com:9981/stream/channelid/76
+
+#EXTINF:-1, TBNUK
+http://laganvpn12.plus.com:9981/stream/channelid/77
+
+#EXTINF:-1, Food Network
+http://laganvpn12.plus.com:9981/stream/channelid/78
 
 
 #EXTINF:-1,[COLOR yellow]--- KIDS ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, [COLOR red]offline[/COLOR]
+#EXTINF:-1, TinyPop
+http://laganvpn12.plus.com:9981/stream/channelid/72
 
 #EXTINF:-1,[COLOR yellow]--- MUSIC ---[/COLOR]
 http://0.0.0.0:1234
@@ -126,8 +195,11 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,[COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
-http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1, Movies4Men
+http://laganvpn12.plus.com:9981/stream/channelid/71
+
+#EXTINF:-1, MovieMix
+http://laganvpn12.plus.com:9981/stream/channelid/36
 
 #EXTINF:-1,HBO Plus EN
 rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
@@ -136,6 +208,26 @@ rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to
 #EXTINF:-1,[COLOR yellow]--- SPORT ---[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 group-title="Sport", SkySport 1
+http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport2
+http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 3
+http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 4
+http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 5
+http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport F1
+http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport Europe
+http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport 1
+http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport 2
+http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Premier sports
+http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
 
 #EXTINF:-1, Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
