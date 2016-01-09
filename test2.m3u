@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green]Football & Sport Events Today[/Color]
--
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",[COLOR green]13.30 eng.cha BLACKBURN ROVERS - BURNLEY[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",nova sport bg ace
-acestream://c7c47c5e7df3ecc92fe36d392a4c38ef4acd616d
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",sky sports 1 uk ace
-acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",sky sports 5 uk ace
-acestream://37558d4ae8149aebd7e87a406fece41626e35c31
-#EXTINF:-1 group-title=" 13.30 eng.cha BLACKBURN ROVERS - BURNLEY ",sport 1 select nl ace
-acestream://a770493d86f72ac642fbd07633de46ebb026a8c1
 
 #EXTINF:-1 group-title=" 14.00 ita.lega.pro AKRAGAS - JUVE STABIA ",[COLOR green]14.00 ita.lega.pro AKRAGAS - JUVE STABIA[/COLOR]
 http://weblinks.altervista.org/SPTV.htm
