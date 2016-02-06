@@ -1,45 +1,33 @@
-#EXTM3U
+IPTV Sky UK m3u8 Playlist
 
-#EXTINF:-1,SKY SPORT 1 HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/789.m3u8
-#EXTINF:-1,SKY SPORT 2 HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/787.m3u8
-#EXTINF:-1,SKY SPORT 3 HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/858.m3u8
-#EXTINF:-1,SKY SPORT 4 HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/859.m3u8
-#EXTINF:-1,SKY SPORT 5 UK HD
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/860.m3u8
-#EXTINF:-1,BT SPORT 1 uk
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/827.m3u8
-#EXTINF:-1,BT SPORT 2 uk
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/828.m3u8
-#EXTINF:-1,SKY SPORT 1 UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/776.m3u8
-#EXTINF:-1,SKY SPORT 2 UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/777.m3u8
-#EXTINF:-1,SKY SPORT 3 UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/778.m3u8
-#EXTINF:-1,SKY SPORT4 UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/779.m3u8
-#EXTINF:-1,SKY SPORT 5 UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/780.m3u8
-#EXTINF:-1,SKY ACTION HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/825.m3u8
-#EXTINF:-1,Sky Movies Modern Drama HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/870.m3u8
-#EXTINF:-1,Sky Movies Family HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/871.m3u8
-#EXTINF:-1,NETWORK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/949.m3u8
-#EXTINF:-1,BBC 1 HD UK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/861.m3u8
-#EXTINF:-1,FASHION TV
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/944.m3u8
-#EXTINF:-1,CARTON NERWORK
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/948.m3u8
-#EXTINF:-1,BBC-WORLD
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/950.m3u8
-#EXTINF:-1,MUSIC 1
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/92.m3u8
-
+6 February 2016 • By kodi
+0
+ 
+0
+IPTV Sky UK m3u8 Playlist
+#EXTINF:0,sky 1UK
+http://109.236.92.136:1935/live/sky1.stream/playlist.m3u8
+#EXTINF:0,sky 2
+http://109.236.92.136:1935/live/sky2.stream/playlist.m3u8
+#EXTINF:0,sky atlantic
+http://109.236.92.136:1935/live/skyatlantic.stream/playlist.m3u8
+#EXTINF:0,sky movies action
+http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies drama
+http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies comedy
+http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
+#EXTINF:0,sky movies family
+http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
+#EXTINF:0,sky movies scifi
+http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
+#EXTINF:0,Sky Living
+http://109.236.92.136:1935/live/skyliving.stream/master.m3u8
+#EXTINF:0,Sky arts 1
+http://109.236.92.136:1935/live/skyarts1.stream/playlist.m3u8
+#EXTINF:0,Sky arts 2
+http://109.236.92.136:1935/live/skyarts2.stream/playlist.m3u8
