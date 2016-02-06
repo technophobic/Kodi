@@ -1750,6 +1750,167 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,[I][B][COLOR yellow]--- NEWS ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow]--- New ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
+#EXTM3U
+#EXTINF:0,A&amp;E
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNDozMCBQTSZoYXNoX3ZhbHVlPVd2S2NMOXMzRTFoaUFRQU83WW5pRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/ae9.stream
+#EXTINF:0,ABC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
+#EXTINF:0,ABC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiBQTSZoYXNoX3ZhbHVlPXMrWlZqNFVkVTQ2MjlWOVYzaDBhOWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abc9.stream
+#EXTINF:0,AMC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
+#EXTINF:0,AMC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
+#EXTINF:0,Animal Planet
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
+#EXTINF:0,BBC 1
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NDowOCBQTSZoYXNoX3ZhbHVlPTNETnM0UXlEZjIvM05qa3IvZFpma3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc1.stream
+#EXTINF:0,BBC 2
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPTR5Q3dtWlUrdkRMYk5md1BaVFpqbFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc2.stream
+#EXTINF:0,BBC 3
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTowOCBQTSZoYXNoX3ZhbHVlPVRqWFludmQraGIyZzVjRXFwRkQ0UHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc3.stream
+#EXTINF:0,BBC 4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MjoyNCBQTSZoYXNoX3ZhbHVlPXhKWEFuZFpNc3Y4QVBjV3lVRE11VEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc4.stream
+#EXTINF:0,BBC News
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MzoxNCBQTSZoYXNoX3ZhbHVlPW05Zkc1bThtWUhkQVByMGhxMXFPaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbcnews.stream
+#EXTINF:0,BLOOMBERG
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTI6NTAgUE0maGFzaF92YWx1ZT1CWUF3QVJieURXNmJTSStEcDFNbldnPT0mdmFsaWRtaW51dGVzPTIw/bloomberg.stream
+#EXTINF:0,Bravo HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1Njo0OCBQTSZoYXNoX3ZhbHVlPWNPem1DQmFqcXJVaEk4NUlObVNmcmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bravo77
+#EXTINF:0,Cartoon Network
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NzozOSBQTSZoYXNoX3ZhbHVlPXNvSDFOejgrbng5YWx6UWM3T1BMQ0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cn77
+#EXTINF:0,CBS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1OToyOCBQTSZoYXNoX3ZhbHVlPWlmek1iRjVJRmdRR2IrRk1DRHh1dWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbs9.stream
+#EXTINF:0,CBS Action
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMDowNSBQTSZoYXNoX3ZhbHVlPXZkTnpRM1Z1VGdXRFh6MGlRakI0M3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsaction.stream
+#EXTINF:0,CBS Drama
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMzoyNSBQTSZoYXNoX3ZhbHVlPVZ4WkpOK3E4ZEtXWmRjaTU5QjdsRXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsdrama.stream
+#EXTINF:0,CBS Reality
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNDo0OCBQTSZoYXNoX3ZhbHVlPXd6b0ZrMkcvbHVSemFDeUlkMCtlT1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsreality.stream
+#EXTINF:0,CNBC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNTo0NSBQTSZoYXNoX3ZhbHVlPTRRUlR5SFJDbVFibVViOFUyMFh6U2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnbc.stream
+#EXTINF:0,CNN
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowODo1MyBQTSZoYXNoX3ZhbHVlPUM2R2xpcnlHT2pTYmdpQVAxYWxNY0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnn.stream
+#EXTINF:0,CW
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMTo0NyBQTSZoYXNoX3ZhbHVlPUlvakpRRURQRUJ2cUd0L1lEKzJtUGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cw77
+#EXTINF:0,Discovery
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMjozNCBQTSZoYXNoX3ZhbHVlPWFRU2FTSUxRT2ErYkVMOE5IVUxMY3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discovery.stream
+#EXTINF:0,Discovery History
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxOToyMSBQTSZoYXNoX3ZhbHVlPURISUJVS3VCR0xYTWMrNHRjQW5MeEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoveryh.stream
+#EXTINF:0,Science Discovery
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMDowMiBQTSZoYXNoX3ZhbHVlPUI4dHYvWGpyQk1RUFIrdW05SUo1Y2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoverys.stream
+#EXTINF:0,Disney
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTowMyBQTSZoYXNoX3ZhbHVlPTIwazVZL1ZnL2dKKzNwL2lnRC8zZFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/disney.stream
+#EXTINF:0,Disney Jr
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTo0NSBQTSZoYXNoX3ZhbHVlPXkrR2dic0hRRTZEb2poSTNFdjJJZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/disneyjrr.stream
+#EXTINF:0,E
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMjo0MiBQTSZoYXNoX3ZhbHVlPVpBbjJXMVREaXlUcDFyK1haQ3pOZ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ee.stream
+#EXTINF:0,FOOD NETWORK
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyNjo1OCBQTSZoYXNoX3ZhbHVlPVNvMVl5NXB6ZXhwMjlRN0ZyYzBSa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/foodnetwork.stream
+#EXTINF:0,FOX HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyODo1OCBQTSZoYXNoX3ZhbHVlPU4raGN6dHJ1VFN2RmtQT3F1bkNZRlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/foxhd.stream
+#EXTINF:0,HISTORY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMzo1NSBQTSZoYXNoX3ZhbHVlPVl3S3BaMjdicDFDVDRweTd6WWpBRGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/history.stream
+#EXTINF:0,HISTORY 2 (H2)
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMjoyNyBQTSZoYXNoX3ZhbHVlPTdZU1E1KzNnWWZicjZFMUhzRkprVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/h2.stream
+#EXTINF:0,ITV
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjoxNSBQTSZoYXNoX3ZhbHVlPVYvTncxK2xKTi9ONjAxNncxb0o5VWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv11.stream
+#EXTINF:0,ITV 2
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTozMjoyOSBQTSZoYXNoX3ZhbHVlPW53VFdub3pBcHpGeDMzSGJiWVZyamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv2.stream
+#EXTINF:0,ITV 3
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo0MDozNSBQTSZoYXNoX3ZhbHVlPW16NE9jM1FUWVdBRmVLZkhwMVc5TGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv3.stream
+#EXTINF:0,ITV 4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo0MTozNSBQTSZoYXNoX3ZhbHVlPXl1cGVoYzIxNTVuOEJlNXYxRUFjeFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv4.stream
+#EXTINF:0,LIFETIME
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjo1OSBQTSZoYXNoX3ZhbHVlPWd6MXVJQjR3YnpkYWM5d0NKL0FIdkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/lifetime9.stream
+#EXTINF:0,NAT GEO
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNzo0NCBQTSZoYXNoX3ZhbHVlPWlPL2U3VGlhNlBnM0d6WE8vZTBKcXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeo.stream
+#EXTINF:0,NAT GEO WILD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozOTo0MCBQTSZoYXNoX3ZhbHVlPWZFOURJVW5aOE5udTBMVlVhd3dBMGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeow.stream
+#EXTINF:0,NBA TV
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MDo1NSBQTSZoYXNoX3ZhbHVlPS9vRVI2eVFuRnlZVzU1VE1HRlZGU1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/nba.stream
+#EXTINF:0,NBC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
+#EXTINF:0,NBC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MjoxOSBQTSZoYXNoX3ZhbHVlPVBTQ2FKL3hncXRPQWQxVE5HdXk1K3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbchd.stream
+#EXTINF:0,NFL NETWORK
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0Mjo1NiBQTSZoYXNoX3ZhbHVlPUw0cDV3MWVjRmZxMmlWL2RxWDZQRVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nfl.stream
+#EXTINF:0,NICK
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NTowMCBQTSZoYXNoX3ZhbHVlPW9sSVZqU0xlNTBtcWw4bUUvTG5HMHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nick.stream
+#EXTINF:0,NICK TOONS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NToyOSBQTSZoYXNoX3ZhbHVlPTBFdzhxWTZtTEwxSUJDWDRyaXJFRUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nicktoons.stream
+#EXTINF:0,PBS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NjoxMiBQTSZoYXNoX3ZhbHVlPWhiZ3lIRGhmQk9mWE1lOU1GRS8zNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/pbs9.stream
+#EXTINF:0,SPIKE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1NDowOSBQTSZoYXNoX3ZhbHVlPW5pUStsQmpoU2tCVHlwVS9vbFBRdkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/spike9.stream
+#EXTINF:0,TBS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MTo1OCBQTSZoYXNoX3ZhbHVlPU83ZHcwRTUvNkhybEFpWEFLUGVsM1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/tbs9.stream
+#EXTINF:0,TNT HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MDowOCBQTSZoYXNoX3ZhbHVlPTdULzdhZ21rMzVMdHNWN0dwTktudWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/tnthd.stream
+#EXTINF:0,TRAVEL CHANNEL
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MTowNiBQTSZoYXNoX3ZhbHVlPUhjOXhDaWZ0R2cyK3ZpZ3l0bDJFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/travel.stream
+#EXTINF:0,TRUE MOVIES 1
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo0OToyMiBQTSZoYXNoX3ZhbHVlPWVmLzdtcnNldGdqNDl5T3l1MmdGSHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/true1.stream
+#EXTINF:0,TRUE MOVIES 2
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo0ODozOCBQTSZoYXNoX3ZhbHVlPUQwTVdlekVoL3BWR2thbm56cjJna1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/true2.stream
+#EXTINF:0,WWE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNDoyNCBQTSZoYXNoX3ZhbHVlPXlJc3VGUEJsQlFiNEl4TW5IWHZuMXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/wwe.stream
+#EXTINF:0,VH1
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNToyNCBQTSZoYXNoX3ZhbHVlPUltWUJiamQvK2dWUy9uQTJ4NzRTUUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/vh1.stream
+#EXTINF:0,USA
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNzozOSBQTSZoYXNoX3ZhbHVlPXRFK1kvNkl0dG1VMEpUalhic0x4dVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/usa9.stream
+#EXTINF:0,SKY ACTION &amp; ADVENTURE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream
+#EXTINF:0,SKY CRIME &amp; THRILLER
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream
+#EXTINF:0,SKY COMEDY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
+#EXTINF:0,SKY COMEDY
+rtmp://play.uktvnow.net:1935/live/mcomedy.stream
+#EXTINF:0,SKY DRAMA &amp; ROMANCE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream
+#EXTINF:0,SKY DISNEY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream
+#EXTINF:0,SKY FAMILY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream
+#EXTINF:0,SKY PREMIER
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream
+#EXTINF:0,SKY SCI-FI &amp; HORROR
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream
+#EXTINF:0,SKY 1
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDg6NDMgUE0maGFzaF92YWx1ZT03YkxuWnB1YUNPa3RoQjFmS1hvNHFnPT0mdmFsaWRtaW51dGVzPTIw/sky1.stream
+#EXTINF:0,SKY 2
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTA6MjIgUE0maGFzaF92YWx1ZT10dW5ENkwySWg4QVdKWTk4dDhTNkJBPT0mdmFsaWRtaW51dGVzPTIw/sky2.stream
+#EXTINF:0,SKY ATLANTIC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDg6MDkgUE0maGFzaF92YWx1ZT1oZW5DUEt0NDJXeW5JZmt4bUZvMmJnPT0mdmFsaWRtaW51dGVzPTIw/skyatlantic.stream
+#EXTINF:0,SKY LIVING
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDc6MzQgUE0maGFzaF92YWx1ZT1VYmptNDJUMTBKKy9GaHJNbWlHUStRPT0mdmFsaWRtaW51dGVzPTIw/skyliving.stream
+#EXTINF:0,SKY NEWS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDY6NDQgUE0maGFzaF92YWx1ZT1vaWdBWStDTzVJQSs5bDB2VTJETjBBPT0mdmFsaWRtaW51dGVzPTIw/skynews.stream
+#EXTINF:0,MTV
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTg6MDEgUE0maGFzaF92YWx1ZT1qc1RJVGNsSUVXL3RVenBVMm5JUU5nPT0mdmFsaWRtaW51dGVzPTIw/mtvmusic.stream
+#EXTINF:0,MTV CLASSIC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTg6MzIgUE0maGFzaF92YWx1ZT1FRU9sL0xQVUxqSW1wMDBLeHhYeTRBPT0mdmFsaWRtaW51dGVzPTIw/mtvclassic.stream
+#EXTINF:0,MTV HITS
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTk6MDYgUE0maGFzaF92YWx1ZT1RQWE2QW4xT3lYWHFIMkdCRTFZaFlnPT0mdmFsaWRtaW51dGVzPTIw/mtvhits.stream
+#EXTINF:0,FLAVA
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDE6MjUgUE0maGFzaF92YWx1ZT1Mc3RoQzVSUzVTaW1FTVQwTmNUbmhBPT0mdmFsaWRtaW51dGVzPTIw/flava.stream
+#EXTINF:0,3E
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTY6MzkgUE0maGFzaF92YWx1ZT1jdVdwY2RQaVlVanpWUFo2ZW9kMnNBPT0mdmFsaWRtaW51dGVzPTIw/3e.stream
+#EXTINF:0,CHANNEL 4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDg6MzIgUE0maGFzaF92YWx1ZT1TWWpQVm1aOXNwejZnQzR4VXUzaHR3PT0mdmFsaWRtaW51dGVzPTIw/c4.stream
+#EXTINF:0,CHELSEA TV
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDc6NTYgUE0maGFzaF92YWx1ZT1kaFJLWmVXTkgrS2hRUCtxYkR5OFJ3PT0mdmFsaWRtaW51dGVzPTIw/chelsea.stream
+#EXTINF:0,DMAX
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDc6MTQgUE0maGFzaF92YWx1ZT1BWUxTT0djY25ZZEpJVUM3NytmMU1RPT0mdmFsaWRtaW51dGVzPTIw/dmax.stream
+#EXTINF:0,DRAMA
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDY6NDAgUE0maGFzaF92YWx1ZT1jNXdOK3AxazJqazdCUTROMjNWeG9nPT0mdmFsaWRtaW51dGVzPTIw/drama.stream
+#EXTINF:0,E4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDU6NTQgUE0maGFzaF92YWx1ZT1pWDFIckVmSEliRTFIYlFtdERuai93PT0mdmFsaWRtaW51dGVzPTIw/e4.stream
+#EXTINF:0,FILM4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDE6NTYgUE0maGFzaF92YWx1ZT1GNU5WK1R2eFZqRUNiR0w0a1g4bkFBPT0mdmFsaWRtaW51dGVzPTIw/film4.stream
+#EXTINF:0,FIVE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDI6MjkgUE0maGFzaF92YWx1ZT16c284eVR6em0ycExyT2hOWFl4clZRPT0mdmFsaWRtaW51dGVzPTIw/five.stream
