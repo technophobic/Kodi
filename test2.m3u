@@ -1,34 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:0,sky 1UK
-http://109.236.92.136:1935/live/sky1.stream/playlist.m3u8
-#EXTINF:0,sky 2
-http://109.236.92.136:1935/live/sky2.stream/playlist.m3u8
-#EXTINF:0,sky atlantic
-http://109.236.92.136:1935/live/skyatlantic.stream/playlist.m3u8
-#EXTINF:0,sky movies action
-http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies drama
-http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies comedy
-http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
-#EXTINF:0,sky movies family
-http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
-#EXTINF:0,sky movies scifi
-http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
-#EXTINF:0,Sky Living
-http://109.236.92.136:1935/live/skyliving.stream/master.m3u8
-#EXTINF:0,Sky arts 1
-http://109.236.92.136:1935/live/skyarts1.stream/playlist.m3u8
-#EXTINF:0,Sky arts 2
-http://109.236.92.136:1935/live/skyarts2.stream/playlist.m3u8
-
 #EXTINF:-1,[COLOR blue][I][B]--- 06-02-2016 ---[/B][/I][/COLOR] [COLOR pink][I][B]UPDATE:1[/B][/I][/COLOR]
 
 
