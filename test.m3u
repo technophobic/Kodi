@@ -1,33 +1,17 @@
-IPTV Sky UK m3u8 Playlist
-
-6 February 2016 • By kodi
-0
- 
-0
-IPTV Sky UK m3u8 Playlist
-#EXTINF:0,sky 1UK
-http://109.236.92.136:1935/live/sky1.stream/playlist.m3u8
-#EXTINF:0,sky 2
-http://109.236.92.136:1935/live/sky2.stream/playlist.m3u8
-#EXTINF:0,sky atlantic
-http://109.236.92.136:1935/live/skyatlantic.stream/playlist.m3u8
-#EXTINF:0,sky movies action
-http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies drama
-http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies comedy
-http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
-#EXTINF:0,sky movies family
-http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
-#EXTINF:0,sky movies scifi
-http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
-#EXTINF:0,Sky Living
-http://109.236.92.136:1935/live/skyliving.stream/master.m3u8
-#EXTINF:0,Sky arts 1
-http://109.236.92.136:1935/live/skyarts1.stream/playlist.m3u8
-#EXTINF:0,Sky arts 2
-http://109.236.92.136:1935/live/skyarts2.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:0,Sky Sports 1
+http://80.243.189.26:8081/sportshd/sky1/index.m3u8
+#EXTINF:0,Sky Sports 2
+http://80.243.189.26:8081/sportshd/sky2/index.m3u8
+#EXTINF:0,Sky Sports 3
+http://80.243.189.26:8081/sportshd/sky3/index.m3u8
+#EXTINF:0,Sky Sports 4
+http://80.243.189.26:8081/sportshd/sky4/index.m3u8
+#EXTINF:0,Sky Sports 5
+http://80.243.189.26:8081/sportshd/sky5/index.m3u8
+#EXTINF:0,BT Sport 1
+http://80.243.189.26:8081/sportshd/bt1/index.m3u8
+#EXTINF:0,BT Sport 2
+http://80.243.189.26:8081/sportshd/bt2/index.m3u8
+#EXTINF:0,BT Sports ESPN
+http://80.243.189.26:8081/sportshd/espnuk/index.m3u8
