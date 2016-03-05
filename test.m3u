@@ -1,17 +1,572 @@
-#EXTM3U
-#EXTINF:0,Sky Sports 1
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8
-#EXTINF:0,Sky Sports 2
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
-#EXTINF:0,Sky Sports 3
-http://80.243.189.26:8081/sportshd/sky3/index.m3u8
-#EXTINF:0,Sky Sports 4
-http://80.243.189.26:8081/sportshd/sky4/index.m3u8
-#EXTINF:0,Sky Sports 5
-http://80.243.189.26:8081/sportshd/sky5/index.m3u8
-#EXTINF:0,BT Sport 1
-http://80.243.189.26:8081/sportshd/bt1/index.m3u8
-#EXTINF:0,BT Sport 2
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/133/0.k.m3u8
-#EXTINF:0,BT Sports ESPN
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/170/0.k.m3u8
+IPTV Big Playlist 26-02-2016
+#EXTM3U Hungarian
+#EXTINF:-1, [B][COLOR yellow]Magyar IPTV + SportTV[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:0, M1
+http://212.40.98.161/streams/mtva/mtv1live.smil/playlist.m3u8?keys=BwbJsKMAsX7Llg2-8IOBxw
+#EXTINF:0, M2
+http://78.24.186.240/streams/mtva/mtv2live.smil/playlist.m3u8?keys=r8ey65CotUA_UavvwMUlOQ
+#EXTINF:0, DUNA
+http://78.24.186.240/streams/mtva/dunalive.smil/playlist.m3u8?keys=fzI44aSAlRBR2xNm0viHrw
+#EXTINF:0, DUNA WORLD
+http://78.24.186.240/streams/mtva/dunaworldlive.smil/playlist.m3u8?keys=N5zudhAmjcHvhDKYKfiB7A
+#EXTINF:-1, TV2
+http://5.149.240.22/s/tv2.m3u8
+#EXTINF:-1, RTL Klub
+http://5.149.240.22/s/rtlklub.m3u8
+#EXTINF:-1, AXN
+http://5.149.240.22/s/axn.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://5.149.240.22/s/comedy.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://5.149.240.22/s/cartoon.m3u8
+#EXTINF:0,HBO COMEDY
+#EXTVLCOPT:audio-track=2
+http://84.242.82.219:8001/1:0:1:D98:C:1:E082E7C:0:0:0
+#EXTINF:0,HBO
+#EXTVLCOPT:audio-track=2
+http://84.242.82.219:8001/1:0:1:7595:2BD:600:E080000:0:0:0
+#EXTINF:0,CINEMAX
+http://84.242.82.219:8001/1:0:1:77F5:2C3:600:E080000:0:0:0
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:audio-track=2
+http://185.47.221.123:4023/udp/239.250.2.17:1234
+#EXTINF:0,NAT GEO WILD
+#EXTVLCOPT:audio-track=3
+http://185.47.221.123:4023/udp/239.250.2.18:1234
+#EXTINF:0,SPEKTRUM
+#EXTVLCOPT:audio-track=1
+http://185.47.221.123:4023/udp/239.250.2.19:1234
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:audio-track=3
+http://185.47.221.123:4023/udp/239.250.2.20:1234
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTVLCOPT:audio-track=3
+http://185.47.221.123:4023/udp/239.250.2.21:1234
+#EXTINF:0,FINE LIVING
+#EXTVLCOPT:audio-track=3
+http://185.47.221.123:4023/udp/239.250.2.27:1234
+
+#EXTINF:-1, Disney
+http://5.149.240.22/s/disney.m3u8
+#EXTINF:-1, Minimax
+http://5.149.240.22/s/minimax.m3u8
+#EXTINF:0, Konyha TV
+rtmp://91.82.85.44:1935/live/konyhatv
+
+#EXTINF:0,FILM BOX
+#EXTVLCOPT:audio-track=2
+http://185.47.221.123:4023/udp/239.250.2.1:1234
+#EXTINF:0,AXN BLACK
+http://185.47.221.123:4023/udp/239.250.2.4:1234
+#EXTINF:0,AXN WHITE
+http://185.47.221.123:4023/udp/239.250.2.5:1234
+#EXTINF:0,AMC
+http://185.47.221.123:4023/udp/239.250.2.6:1234
+#EXTINF:0,DISNEY CHANNEL
+http://185.47.221.123:4023/udp/239.250.2.7:1234
+#EXTINF:0,MINIMAX
+http://185.47.221.123:4023/udp/239.250.2.9:1234
+#EXTINF:0,TLC
+#EXTVLCOPT:audio-track=1
+http://185.47.221.123:4023/udp/239.250.2.11:1234
+
+#EXTINF:45,Viasat Explore (EN)
+http://91.196.230.236:7788/udp/234.1.10.45:1234
+#EXTINF:46,Viasat History (EN)
+http://91.196.230.236:7788/udp/234.1.10.46:1234
+#EXTINF:47,Viasat Nature (EN)
+http://91.196.230.236:7788/udp/234.1.10.47:1234
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:0,M1
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b3000000.m3u8
+#EXTINF:0,M2
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist_b3000000.m3u8
+#EXTINF:0,M4 Sport
+http://212.40.98.166/intstreams/mtva/mtv4live.smil/chunklist_b3000000.m3u8
+#EXTINF:0,Duna
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_b3000000.m3u8
+#EXTINF:0,Duna World
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist_b3000000.m3u8
+#EXTINF:0,M1 Hungary
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+#EXTINF:0,M2 Hungary
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1,SPORTV AMERICAS ON
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+#EXTINF:-1,NHK WORLD TV (usa)
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1,trace sports
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,WinSports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+#EXTINF:-1,FOX SPORT (BR)
+http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8
+#EXTINF:-1,TELE ARAQUA (esp)
+http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8
+#EXTINF:-1,English Club tv (usa)
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+#EXTINF:-1,TVU ESPORTE INTERATIVO
+http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
+#EXTINF:-1,ФУТБОЛ 1
+http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
+#EXTINF:-1,RUSSO
+http://tv3.noip.me/stream/RA9KFWMDAH/178.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://tv3.noip.me/stream/RA9KFWMDAH/102.m3u8
+#EXTINF:-1,RUSSO SPORT
+http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
+#EXTINF:-1,RUSSO SPORT 2
+http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
+#EXTINF:-1,SPORTV (turco)
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Cuatro
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
+#EXTINF:-1,Nova Sport 2 HD
+http://46.36.36.137/tv4/live/live.m3u8
+#EXTINF:-1,TV GALIZIA 1
+http://media3.crtvg.es/live/tvge/playlist.m3u8
+#EXTINF:-1,TV GALIZIA 2
+http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
+#EXTINF:-1,ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1,FilmBox
+http://185.47.221.123:4023/udp/239.250.2.1:1234
+#EXTINF:-1,Kino CS
+http://185.47.221.123:4023/udp/239.250.2.2:1234
+#EXTINF:-1,AXN CZE
+http://185.47.221.123:4023/udp/239.250.2.3:1234
+#EXTINF:-1,AXN Black CE
+http://185.47.221.123:4023/udp/239.250.2.4:1234
+#EXTINF:-1,AXN White CE
+http://185.47.221.123:4023/udp/239.250.2.5:1234
+#EXTINF:-1,AMC
+http://185.47.221.123:4023/udp/239.250.2.6:1234
+#EXTINF:-1,Disney Ch.
+http://185.47.221.123:4023/udp/239.250.2.7:1234
+#EXTINF:-1,Doku CS
+http://185.47.221.123:4023/udp/239.250.2.8:1234
+#EXTINF:-1,Minimax / Animax
+http://185.47.221.123:4023/udp/239.250.2.9:1234
+#EXTINF:-1,Jim Jam
+http://185.47.221.123:4023/udp/239.250.2.10:1234
+#EXTINF:-1,TLC Pan Regional
+http://185.47.221.123:4023/udp/239.250.2.11:1234
+#EXTINF:-1,VH1
+http://185.47.221.123:4023/udp/239.250.2.14:1234
+#EXTINF:-1,Sky News Intl
+http://185.47.221.123:4023/udp/239.250.2.15:1234
+#EXTINF:-1,BBC World
+http://185.47.221.123:4023/udp/239.250.2.16:1234
+#EXTINF:-1,NGC
+http://185.47.221.123:4023/udp/239.250.2.17:1234
+#EXTINF:-1,Nat Geo Wild
+http://185.47.221.123:4023/udp/239.250.2.18:1234
+#EXTINF:-1,Spektrum HD
+http://185.47.221.123:4023/udp/239.250.2.19:1234
+#EXTINF:-1,Animal Planet Europe
+http://185.47.221.123:4023/udp/239.250.2.20:1234
+#EXTINF:-1,Discovery Central Europe
+http://185.47.221.123:4023/udp/239.250.2.21:1234
+#EXTINF:-1,History
+http://185.47.221.123:4023/udp/239.250.2.24:1234
+#EXTINF:-1,Travel
+http://185.47.221.123:4023/udp/239.250.2.25:1234
+#EXTINF:-1,CBS Reality
+http://185.47.221.123:4023/udp/239.250.2.26:1234
+#EXTINF:-1,Fine Living CZ.
+http://185.47.221.123:4023/udp/239.250.2.27:1234
+#EXTINF:-1,BBC Entertainment Europe
+http://185.47.221.123:4023/udp/239.250.2.29:1234
+#EXTINF:-1,Nova Sport
+http://185.47.221.123:4023/udp/239.250.2.30:1234
+#EXTINF:-1,SPORT1 CZE HD
+http://185.47.221.123:4023/udp/239.250.2.31:1234
+#EXTINF:-1,Nickelodeon Czech
+http://185.47.221.123:4023/udp/239.250.2.32:1234
+#EXTINF:-1,Extreme EMEA
+http://185.47.221.123:4023/udp/239.250.2.33:1234
+#EXTINF:-1,ESP Czech
+http://185.47.221.123:4023/udp/239.250.2.34:1234
+#EXTINF:-1,ESP NE Czech
+http://185.47.221.123:4023/udp/239.250.2.35:1234
+#EXTINF:-1,Nova Sport 1 HD
+http://185.47.221.123:4023/udp/239.250.2.38:1234
+#EXTINF:-1,NOVA Sport 2 HD
+http://185.47.221.123:4023/udp/239.250.2.39:1234
+#EXTINF:-1,Baby TV
+http://185.47.221.123:4023/udp/239.250.2.41:1234
+#EXTINF:-1,MTV Europe
+http://185.47.221.123:4023/udp/239.250.2.42:1234
+#EXTINF:-1,Muzika CS
+http://185.47.221.123:4023/udp/239.250.2.50:1234
+#EXTINF:-1,Sport 2 HD
+http://185.47.221.123:4023/udp/239.250.2.53:1234
+#EXTINF:-1,DELUXE MUSIC
+http://185.47.221.123:4023/udp/239.250.2.55:1234
+
+#EXTINF:45,Viasat Explore (EN)
+http://91.196.230.236:7788/udp/234.1.10.45:1234
+#EXTINF:46,Viasat History (EN)
+http://91.196.230.236:7788/udp/234.1.10.46:1234
+#EXTINF:47,Viasat Nature (EN)
+http://91.196.230.236:7788/udp/234.1.10.47:1234
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,FilmBox
+http://185.47.221.123:4023/udp/239.250.2.1:1234
+#EXTINF:-1,Kino CS
+http://185.47.221.123:4023/udp/239.250.2.2:1234
+#EXTINF:-1,AXN CZE
+http://185.47.221.123:4023/udp/239.250.2.3:1234
+#EXTINF:-1,AXN Black CE
+http://185.47.221.123:4023/udp/239.250.2.4:1234
+#EXTINF:-1,AXN White CE
+http://185.47.221.123:4023/udp/239.250.2.5:1234
+#EXTINF:-1,AMC
+http://185.47.221.123:4023/udp/239.250.2.6:1234
+#EXTINF:-1,Disney Ch.
+http://185.47.221.123:4023/udp/239.250.2.7:1234
+#EXTINF:-1,Doku CS
+http://185.47.221.123:4023/udp/239.250.2.8:1234
+#EXTINF:-1,Minimax / Animax
+http://185.47.221.123:4023/udp/239.250.2.9:1234
+#EXTINF:-1,Jim Jam
+http://185.47.221.123:4023/udp/239.250.2.10:1234
+#EXTINF:-1,TLC Pan Regional
+http://185.47.221.123:4023/udp/239.250.2.11:1234
+#EXTINF:-1,VH1
+http://185.47.221.123:4023/udp/239.250.2.14:1234
+#EXTINF:-1,Sky News Intl
+http://185.47.221.123:4023/udp/239.250.2.15:1234
+#EXTINF:-1,BBC World
+http://185.47.221.123:4023/udp/239.250.2.16:1234
+#EXTINF:-1,NGC
+http://185.47.221.123:4023/udp/239.250.2.17:1234
+#EXTINF:-1,Nat Geo Wild
+http://185.47.221.123:4023/udp/239.250.2.18:1234
+#EXTINF:-1,Spektrum HD
+http://185.47.221.123:4023/udp/239.250.2.19:1234
+#EXTINF:-1,Animal Planet Europe
+http://185.47.221.123:4023/udp/239.250.2.20:1234
+#EXTINF:-1,Discovery Central Europe
+http://185.47.221.123:4023/udp/239.250.2.21:1234
+#EXTINF:-1,History
+http://185.47.221.123:4023/udp/239.250.2.24:1234
+#EXTINF:-1,Travel
+http://185.47.221.123:4023/udp/239.250.2.25:1234
+#EXTINF:-1,CBS Reality
+http://185.47.221.123:4023/udp/239.250.2.26:1234
+#EXTINF:-1,Fine Living CZ.
+http://185.47.221.123:4023/udp/239.250.2.27:1234
+#EXTINF:-1,BBC Entertainment Europe
+http://185.47.221.123:4023/udp/239.250.2.29:1234
+#EXTINF:-1,Nova Sport
+http://185.47.221.123:4023/udp/239.250.2.30:1234
+#EXTINF:-1,SPORT1 CZE HD
+http://185.47.221.123:4023/udp/239.250.2.31:1234
+#EXTINF:-1,Nickelodeon Czech
+http://185.47.221.123:4023/udp/239.250.2.32:1234
+#EXTINF:-1,Extreme EMEA
+http://185.47.221.123:4023/udp/239.250.2.33:1234
+#EXTINF:-1,ESP Czech
+http://185.47.221.123:4023/udp/239.250.2.34:1234
+#EXTINF:-1,ESP NE Czech
+http://185.47.221.123:4023/udp/239.250.2.35:1234
+#EXTINF:-1,Playboy
+http://185.47.221.123:4023/udp/239.250.2.36:1234
+#EXTINF:-1,Nova Sport 1 HD
+http://185.47.221.123:4023/udp/239.250.2.38:1234
+#EXTINF:-1,NOVA Sport 2 HD
+http://185.47.221.123:4023/udp/239.250.2.39:1234
+#EXTINF:-1,Baby TV
+http://185.47.221.123:4023/udp/239.250.2.41:1234
+#EXTINF:-1,MTV Europe
+http://185.47.221.123:4023/udp/239.250.2.42:1234
+#EXTINF:-1,Muzika CS
+http://185.47.221.123:4023/udp/239.250.2.50:1234
+#EXTINF:-1,Sport 2 HD
+http://185.47.221.123:4023/udp/239.250.2.53:1234
+#EXTINF:-1,DELUXE MUSIC
+http://185.47.221.123:4023/udp/239.250.2.55:1234
+
+#EXTINF:-1,SPORT : DIGI SPORT 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/2054.ts
+#EXTINF:-1,SPORT : DIGI SPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/2055.ts
+/133323022016/2056.ts]http://62.210.162.88:80/live/SPORT110/133323022016/2056.ts[/url]
+#EXTINF:-1,SPORT : SPORSTNET 1 CAN
+http://62.210.162.88:80/live/SPORT110/133323022016/2063.ts
+#EXTINF:-1,SPORT : SILK3*
+http://62.210.162.88:80/live/SPORT110/133323022016/2062.ts
+#EXTINF:-1,SPORT : BT SPORT/ESPN*
+http://62.210.162.88:80/live/SPORT110/133323022016/2049.ts
+#EXTINF:-1,SPORT : TYC SPORTS ARG
+http://62.210.162.88:80/live/SPORT110/133323022016/2035.ts
+#EXTINF:-1,SPORT : M4 SPORT HUN
+http://62.210.162.88:80/live/SPORT110/133323022016/2036.ts
+#EXTINF:-1,ROM : DOLCESPORT 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1831.ts
+#EXTINF:-1,ROM : DOLCESPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1832.ts
+#EXTINF:-1,SPORT : skysports1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1519.ts
+#EXTINF:-1,SPORT : skysports2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1520.ts
+#EXTINF:-1,SPORT : skysports3*
+http://62.210.162.88:80/live/SPORT110/133323022016/1521.ts
+#EXTINF:-1,SPORT : skysports4*
+http://62.210.162.88:80/live/SPORT110/133323022016/1522.ts
+#EXTINF:-1,SPORT : skysports5*
+http://62.210.162.88:80/live/SPORT110/133323022016/1523.ts
+#EXTINF:-1,SPORT : BT SPORT EUROPE*
+http://62.210.162.88:80/live/SPORT110/133323022016/2067.ts
+#EXTINF:-1,SPORT : BT SPORT EUROPE SD*
+http://62.210.162.88:80/live/SPORT110/133323022016/2011.ts
+#EXTINF:-1,SPORT : sky sport f1*
+http://62.210.162.88:80/live/SPORT110/133323022016/2066.ts
+#EXTINF:-1,USA : SPORT USA*
+http://62.210.162.88:80/live/SPORT110/133323022016/1836.ts
+#EXTINF:-1,RU : FUTBOL 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1778.ts
+#EXTINF:-1,RU : NTV SPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1777.ts
+#EXTINF:-1,SPORT : VIASAT SPORT*
+http://62.210.162.88:80/live/SPORT110/133323022016/2057.ts
+#EXTINF:-1,RU : SPORT 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1779.ts
+
+#EXTINF:-1,AR: BeinMovies 1HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3312.ts
+#EXTINF:-1,AR: BeinMovies 2HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3313.ts
+#EXTINF:-1,Sport: beINSPORT 10HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3311.ts
+#EXTINF:-1,Sport: beINSPORT 1HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3302.ts
+#EXTINF:-1,Sport: beINSPORT 2HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3303.ts
+#EXTINF:-1,Sport: beINSPORT 3HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3304.ts
+#EXTINF:-1,Sport: beINSPORT 4HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3305.ts
+#EXTINF:-1,Sport: beINSPORT 5HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3306.ts
+#EXTINF:-1,Sport: beINSPORT 6HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3307.ts
+#EXTINF:-1,Sport: beINSPORT 7HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3308.ts
+#EXTINF:-1,Sport: beINSPORT 8HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3309.ts
+#EXTINF:-1,Sport: beINSPORT 9HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3310.ts
+#EXTINF:-1,SPORT: Bein sports 1
+http://cp.dmbshare.net:8000/live/tufan/tufan/3551.ts
+#EXTINF:-1,SPORT: Bein sports 2
+http://cp.dmbshare.net:8000/live/tufan/tufan/3552.ts
+#EXTINF:-1,SPORT: BT SPORTS 1 HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3544.ts
+#EXTINF:-1,SPORT: BT SPORTS 2 HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3545.ts
+#EXTINF:-1,SPORT: BT SPORTS EU HD
+http://cp.dmbshare.net:8000/live/tufan/tufan/3546.ts
+#EXTINF:-1,SPORT: EURO SPORT 1
+http://cp.dmbshare.net:8000/live/tufan/tufan/3547.ts
+#EXTINF:-1,SPORT: EURO SPORT 2
+http://cp.dmbshare.net:8000/live/tufan/tufan/3548.ts
+#EXTINF:-1,SPORT: Neo prime
+http://cp.dmbshare.net:8000/live/tufan/tufan/3550.ts
+#EXTINF:-1,SPORT: Prime Sports (bpl)
+http://cp.dmbshare.net:8000/live/tufan/tufan/3549.ts
+#EXTINF:-1,SPORT: Sky Sport 1 de
+http://cp.dmbshare.net:8000/live/tufan/tufan/3553.ts
+#EXTINF:-1,SPORT: Sky Sport 2 DE
+http://cp.dmbshare.net:8000/live/tufan/tufan/3554.ts
+#EXTINF:-1,SPORT: Sky sports 1
+http://cp.dmbshare.net:8000/live/tufan/tufan/3535.ts
+#EXTINF:-1,SPORT: Sky sports 2
+http://cp.dmbshare.net:8000/live/tufan/tufan/3536.ts
+#EXTINF:-1,SPORT: Sky sports 3
+http://cp.dmbshare.net:8000/live/tufan/tufan/3537.ts
+#EXTINF:-1,SPORT: Sky sports 4
+http://cp.dmbshare.net:8000/live/tufan/tufan/3538.ts
+#EXTINF:-1,SPORT: Sky sports 5
+http://cp.dmbshare.net:8000/live/tufan/tufan/3539.ts
+#EXTINF:-1,SPORT: Sony SIX
+http://cp.dmbshare.net:8000/live/tufan/tufan/3543.ts
+#EXTINF:-1,SPORT: Star sports 1
+http://cp.dmbshare.net:8000/live/tufan/tufan/3531.ts
+#EXTINF:-1,SPORT: Star sports 2
+http://cp.dmbshare.net:8000/live/tufan/tufan/3533.ts
+#EXTINF:-1,SPORT: Star sports 4
+http://cp.dmbshare.net:8000/live/tufan/tufan/3534.ts
+#EXTINF:-1,SPORT: Star sports HD1
+http://cp.dmbshare.net:8000/live/tufan/tufan/3532.ts
+#EXTINF:-1,SPORT: Ten action
+http://cp.dmbshare.net:8000/live/tufan/tufan/3540.ts
+#EXTINF:-1,SPORT: Ten cricket
+http://cp.dmbshare.net:8000/live/tufan/tufan/3542.ts
+#EXTINF:-1,SPORT: Ten sports
+http://cp.dmbshare.net:8000/live/tufan/tufan/3541.ts
+
+#EXTINF:-1,UK_CTH_STADIUM_5
+http://www.t12v.com:8000/live/sarah/sarah/1085.ts
+#EXTINF:-1,UK_SKY_SPORT_F1
+http://www.t12v.com:8000/live/sarah/sarah/1039.ts
+#EXTINF:-1,UK_SKY_SPORT_5_HD
+http://www.t12v.com:8000/live/sarah/sarah/1093.ts
+#EXTINF:-1,UK_SKY_SPORT_4_HD
+http://www.t12v.com:8000/live/sarah/sarah/1094.ts
+#EXTINF:-1,UK_SKY_SPORT_3_HD
+http://www.t12v.com:8000/live/sarah/sarah/1096.ts
+#EXTINF:-1,UK_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/sarah/sarah/1097.ts
+#EXTINF:-1,UK_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/sarah/sarah/1104.ts
+#EXTINF:-1,UK_SKY_SPORTS_5_HD
+http://www.t12v.com:8000/live/sarah/sarah/1040.ts
+#EXTINF:-1,UK_SKY_SPORTS_4_HD
+http://www.t12v.com:8000/live/sarah/sarah/1041.ts
+#EXTINF:-1,UK_SKY_SPORTS_3_HD
+http://www.t12v.com:8000/live/sarah/sarah/1042.ts
+#EXTINF:-1,UK_SKY_SPORTS_2_HD
+http://www.t12v.com:8000/live/sarah/sarah/1043.ts
+#EXTINF:-1,UK_SKY_SPORTS_1_HD
+http://www.t12v.com:8000/live/sarah/sarah/1044.ts
+#EXTINF:-1,UK_SKY_MOVIES_SELECT_HD
+http://www.t12v.com:8000/live/sarah/sarah/1114.ts
+#EXTINF:-1,UK_SKY_ONE
+http://www.t12v.com:8000/live/sarah/sarah/1095.ts
+#EXTINF:-1,UK_SKY_MOVIES_SCI_FI
+http://www.t12v.com:8000/live/sarah/sarah/1105.ts
+#EXTINF:-1,UK_SKY_MOVIES_PREMIERE_HD
+http://www.t12v.com:8000/live/sarah/sarah/1054.ts
+#EXTINF:-1,UK_SKY_MOVIES_MODERN_GREAT
+http://www.t12v.com:8000/live/sarah/sarah/1045.ts
+#EXTINF:-1,UK_CBS_DRAMA
+http://www.t12v.com:8000/live/sarah/sarah/1108.ts
+#EXTINF:-1,UK_SKY_MOVIES_COMEDY_HD
+http://www.t12v.com:8000/live/sarah/sarah/1038.ts
+#EXTINF:-1,UK_SKY_MOVIES_ACTION_HD
+http://www.t12v.com:8000/live/sarah/sarah/1035.ts
+#EXTINF:-1,UK_CHELSEA_TV
+http://www.t12v.com:8000/live/sarah/sarah/1074.ts
+#EXTINF:-1,UK_SKY_MOVIES_ATLANTIC_HD
+http://www.t12v.com:8000/live/sarah/sarah/1115.ts
+#EXTINF:-1,UK_SKY_DRAMA_HD
+http://www.t12v.com:8000/live/sarah/sarah/1055.ts
+#EXTINF:-1,UK_SKY_MOVIES_DISNEY
+http://www.t12v.com:8000/live/sarah/sarah/1056.ts
+#EXTINF:-1,UK_SKY_ART_1
+http://www.t12v.com:8000/live/sarah/sarah/1075.ts
+#EXTINF:-1,UK_CTH_STADIUM_6
+http://www.t12v.com:8000/live/sarah/sarah/1100.ts
+#EXTINF:-1,UK_NICK_JUNIOR
+http://www.t12v.com:8000/live/sarah/sarah/1101.ts
+#EXTINF:-1,UK_DISNEY_JUNIOR
+http://www.t12v.com:8000/live/sarah/sarah/1088.ts
+#EXTINF:-1,UK_NATIONAL_GEOGRAPHY_WILD
+http://www.t12v.com:8000/live/sarah/sarah/1102.ts
+#EXTINF:-1,UK_DISCOVERY_SCIENCE
+http://www.t12v.com:8000/live/sarah/sarah/1103.ts
+#EXTINF:-1,UK_MTV_ROCKS
+http://www.t12v.com:8000/live/sarah/sarah/1077.ts
+#EXTINF:-1,UK_MTV_HITS
+http://www.t12v.com:8000/live/sarah/sarah/1083.ts
+#EXTINF:-1,UK_MTV_MUSIC
+http://www.t12v.com:8000/live/sarah/sarah/1084.ts
+#EXTINF:-1,UK_MOVIES_FAMILY
+http://www.t12v.com:8000/live/sarah/sarah/1064.ts
+#EXTINF:-1,UK_ITV_2_HD
+http://www.t12v.com:8000/live/sarah/sarah/1098.ts
+#EXTINF:-1,UK_ITV_1_HD
+http://www.t12v.com:8000/live/sarah/sarah/1099.ts
+#EXTINF:-1,UK_HISTORY
+http://www.t12v.com:8000/live/sarah/sarah/1071.ts
+#EXTINF:-1,UK_FIVE
+http://www.t12v.com:8000/live/sarah/sarah/1106.ts
+#EXTINF:-1,UK_MOVIES_4_MEN
+http://www.t12v.com:8000/live/sarah/sarah/1107.ts
+#EXTINF:-1,UK_DISNEY_XD
+http://www.t12v.com:8000/live/sarah/sarah/1090.ts
+#EXTINF:-1,UK_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/sarah/sarah/1111.ts
+#EXTINF:-1,UK_DISCOVERY_TURBO
+http://www.t12v.com:8000/live/sarah/sarah/1058.ts
+#EXTINF:-1,UK_DISCOVERY_ID
+http://www.t12v.com:8000/live/sarah/sarah/1089.ts
+#EXTINF:-1,UK_DISCOVERY_INVESTIGATION
+http://www.t12v.com:8000/live/sarah/sarah/1037.ts
+#EXTINF:-1,UK_DISCOVERY_HOME_HEALTH
+http://www.t12v.com:8000/live/sarah/sarah/1063.ts
+#EXTINF:-1,UK_DISCOVERY_HISTORY
+http://www.t12v.com:8000/live/sarah/sarah/1076.ts
+#EXTINF:-1,UK_DISCOVERY
+http://www.t12v.com:8000/live/sarah/sarah/1046.ts
+#EXTINF:-1,UK_CTH_STADIUM_4_HD
+http://www.t12v.com:8000/live/sarah/sarah/1070.ts
+#EXTINF:-1,UK_CTH_STADIUM_3_HD
+http://www.t12v.com:8000/live/sarah/sarah/1069.ts
+#EXTINF:-1,UK_CTH_STADIUM_2_HD
+http://www.t12v.com:8000/live/sarah/sarah/1086.ts
+#EXTINF:-1,UK_CTH_STADIUM_1
+http://www.t12v.com:8000/live/sarah/sarah/1087.ts
+#EXTINF:-1,UK_COMEDY_CENTRAL
+http://www.t12v.com:8000/live/sarah/sarah/1065.ts
+#EXTINF:-1,UK_COLORS
+http://www.t12v.com:8000/live/sarah/sarah/1091.ts
+#EXTINF:-1,UK_SKY_MOVIES_SHOWCASE
+http://www.t12v.com:8000/live/sarah/sarah/1062.ts
+#EXTINF:-1,UK_SKY_MOVIES_THRILLER
+http://www.t12v.com:8000/live/sarah/sarah/1061.ts
+#EXTINF:-1,UK_EUROSPORT_1_HD
+http://www.t12v.com:8000/live/sarah/sarah/1050.ts
+#EXTINF:-1,UK_CARTOON_NETWORK
+http://www.t12v.com:8000/live/sarah/sarah/1092.ts
+#EXTINF:-1,UK_BT_SPORT_2
+http://www.t12v.com:8000/live/sarah/sarah/1117.ts
+#EXTINF:-1,UK_BT_SPORT_1
+http://www.t12v.com:8000/live/sarah/sarah/1118.ts
+#EXTINF:-1,UK_ESPN_HD
+http://www.t12v.com:8000/live/sarah/sarah/1059.ts
+#EXTINF:-1,UK_BBC_4
+http://www.t12v.com:8000/live/sarah/sarah/1078.ts
+#EXTINF:-1,UK_BBC_3
+http://www.t12v.com:8000/live/sarah/sarah/1079.ts
+#EXTINF:-1,UK_BBC_2
+http://www.t12v.com:8000/live/sarah/sarah/1080.ts
+#EXTINF:-1,UK_BBC_1
+http://www.t12v.com:8000/live/sarah/sarah/1081.ts
+#EXTINF:-1,UK_ANIMAL_PLANET
+http://www.t12v.com:8000/live/sarah/sarah/1082.ts
+#EXTINF:-1,UK_EUROSPORT_2_HD
+http://www.t12v.com:8000/live/sarah/sarah/1113.ts
+#EXTINF:-1,UK_SKY_SPORTS_NEWS_HD
+http://www.t12v.com:8000/live/sarah/sarah/1112.ts
+#EXTINF:0,BRAZZERS TV
+http://185.47.221.123:4023/udp/239.250.2.37:1234
+#EXTINF:-1,DORCEL +18
+http://91.185.99.146:54022/udp/239.11.14.1:5000
+#EXTINF:-1,DORCEL XXX HD +18
+http://91.185.99.146:54022/udp/239.11.14.2:5000
+#EXTINF:-1,DUSK! +18
+http://91.185.99.146:54022/udp/239.11.14.3:5000
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_80.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_200.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_400.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_700.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1300.m3u8
+#EXTINF:-1,Eurosport 1 (International)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
