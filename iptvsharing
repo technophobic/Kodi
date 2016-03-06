@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1,UK : Sky 1 HD*
+http://62.210.162.88:80/live/uk120/131604032016/2104.ts
+#EXTINF:-1,UK : Discovery*
+http://62.210.162.88:80/live/uk120/131604032016/2105.ts
+#EXTINF:-1,UK : Sky Movies Action*
+http://62.210.162.88:80/live/uk120/131604032016/2103.ts
+#EXTINF:-1,UK : Sky Movies Comedy*
+http://62.210.162.88:80/live/uk120/131604032016/2102.ts
+#EXTINF:-1,UK : Sky Movies Family*
+http://62.210.162.88:80/live/uk120/131604032016/2101.ts
+#EXTINF:-1,UK : Sky Movies Modern Greats*
+http://62.210.162.88:80/live/uk120/131604032016/2097.ts
+#EXTINF:-1,UK : Sky Movies Premiere*
+http://62.210.162.88:80/live/uk120/131604032016/2100.ts
+#EXTINF:-1,UK : Sky Movies Select*
+http://62.210.162.88:80/live/uk120/131604032016/2099.ts
+#EXTINF:-1,UK : Sky Movies Showcase*
+http://62.210.162.88:80/live/uk120/131604032016/2098.ts
+#EXTINF:-1,SPORT : skysports1*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1519.ts
+#EXTINF:-1,SPORT : skysports2*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1520.ts
+#EXTINF:-1,SPORT : skysports3*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1521.ts
+#EXTINF:-1,SPORT : skysports4*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1522.ts
+#EXTINF:-1,SPORT : skysports5*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1523.ts
+#EXTINF:-1,SPORT : sky sport f1*
+http://62.210.162.88:80/live/sport_uk120/134104032016/2066.ts
+#EXTINF:-1,SPORT : btsports1*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1526.ts
+#EXTINF:-1,SPORT : btsports2*
+http://62.210.162.88:80/live/sport_uk120/134104032016/1525.ts
+#EXTINF:-1,SPORT : BT SPORT EUROPE*
+http://62.210.162.88:80/live/sport_uk120/134104032016/2067.ts
+- See more at: http://www.iptvsharing.com/2016/03/iptv-sky-uk-mix-channels-streaming.html#sthash.qnzC1tGz.dpuf
